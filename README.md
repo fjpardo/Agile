@@ -7,3 +7,6 @@ This artice is about Amazon Web Services annoucing AWS Global Station services, 
 This is a change to both the branches and this article
 
 Customers will be able to use these services and pay for usage by the minute. Amazon is slowly sending more and more satellites for customers to use. 
+  
+>Yashodhan Singh's comment:  
+>Amazon is really pushing the boundaries of network operations with this. Enhancing download time is extremely important in this day and age.
